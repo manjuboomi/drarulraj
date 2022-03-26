@@ -585,7 +585,7 @@ a.theme-btn.style-three:before,
 /****************************************************** */
 .banner-section {
     position: relative;
-    background: url(../images/banner/banner.png);
+    background: url(../images/banner/banner.jpg);
     background-size: cover;
     background-position: center;
 }
